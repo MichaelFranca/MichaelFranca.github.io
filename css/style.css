@@ -5,7 +5,6 @@
   grid-gap: 10px
   max-width: 960px;
   margin: 0 auto;
-  grid-template-columns: 250px 250px 250px
 }
 
 #header {
