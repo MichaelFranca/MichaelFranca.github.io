@@ -6,15 +6,6 @@
   max-width: 960px;
   margin: 0 auto;
   grid-template-columns: 120px 120px 120px
-
-  background-image: url("img/circuit.png");
-  background-attachment: fixed;
-  background-size: cover;
-/* =========================================================================
- This pattern is downloaded from www.toptal.com/designers/subtlepatterns/
- If you need more, that's where to get'em.
- ========================================================================
-  */
 }
 
 body {
@@ -25,6 +16,7 @@ body {
 nav li {
   display: inline-block;
   margin: 10px;
+  text-align: center;
 }
 
 header {
