@@ -17,7 +17,7 @@ body {
   margin: 0 auto;
 }
 
-#menu {
+nav li {
   display: inline-block;
 
 }
