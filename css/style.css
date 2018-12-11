@@ -1,8 +1,33 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Raleway:400,700');
 
+body {
+  font-family: "Montserrat", sans-serif;
+  background-image: url(circuit.png);
+}
+
 #wrapper {
   max-width: 960px;
   margin: 0 auto;
+}
+
+nav {
+  display: inline-block;
+}
+
+header {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
 }
 
 #education {
