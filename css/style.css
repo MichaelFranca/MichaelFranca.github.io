@@ -8,6 +8,22 @@
   grid-template-columns: 250px 250px 250px
 }
 
+#header {
+  grid-area: header;
+}
+
+#sidebar {
+  grid-area: sidebar;
+}
+
+#main {
+  grid-area: main;
+}
+
+#footer {
+  grid-area: footer;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
   margin: 20px;
