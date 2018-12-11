@@ -15,8 +15,9 @@ body {
   margin: 0 auto;
 }
 
-nav {
+#menu {
   display: inline-block;
+
 }
 
 header {
