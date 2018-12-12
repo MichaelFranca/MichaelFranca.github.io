@@ -27,19 +27,22 @@ p{
 }
 
 footer {
-text-align: center;
+  text-align: center;
 }
 
 h1 {
-text-align: left;
+  font-family: "Raleway", sans-serif;
+  text-align: left;
 }
 
 h2 {
-text-align: left;
+  font-family: "Raleway", sans-serif;
+  text-align: left;
 }
 
 h3 {
-text-align: left;
+  font-family: "Montserrat", sans-serif;
+  text-align: left;
 }
 
 #education {
